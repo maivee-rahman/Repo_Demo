@@ -1,4 +1,4 @@
-# Repo_Demo
+# Demo_repo
 This is a Demo of Git &amp; Github Class.
 
 # Teacher:
